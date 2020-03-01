@@ -1,2 +1,4 @@
 # lendingclub_loan_data
 Utilizing various supervised classification algorithms to predict loan default from lending club loan data
+
+The total 7 common supervised machine learning algorithms were applied to build the PD (probability of default) model on the LendingClub loan data to compare each algorithm’s predictive power and computation efficiency. The 7 algorithms include KNN, Naïve Bayes, SVM, Logistic Regression, Random Forest, XGBoost (Extreme Gradient Boosting), Neural Network. The results provided valuable insights on selection of the appropriate classification algorithms for PD model building in financial industry. The detail of data preprocessing steps was also discussed and the final models used in comparison were already tuned individually by random search or grid search for hyperparameter optimization.
